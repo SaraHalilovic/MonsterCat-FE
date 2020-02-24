@@ -13,6 +13,12 @@
   }
 }
 
+h1{
+  color: rgb(127, 184, 238);
+  font-size: 72px;
+  font-family: 'Bigelow Rules';
+
+}
 
 .App-header {
   background-color: #282c34;
